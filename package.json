@@ -1,0 +1,15 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "ConnectionsLab_firstServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wendi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {}
+}
